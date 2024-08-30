@@ -1,0 +1,6 @@
+GET http://localhost:3000/weather?city=Hyderabad 
+### 
+
+GET http://localhost:3000/weather?city=New%20York 
+
+
