@@ -2,9 +2,10 @@
   "name": "weather-service",
   "version": "1.0.0",
   "description": "A service that fetches and displays weather information based on user input (city or location).",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "nodemon index.js",
+    "build": "npm run build"
   },
   "keywords": [],
   "author": "",
